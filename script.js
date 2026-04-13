@@ -1,1 +1,1 @@
-setTimeout(() => alert("hello"), 5000);
+setTimeout(() => alert("hello"), 10000);
